@@ -4,6 +4,8 @@
 
 This script fetches and processes Fantasy Premier League (FPL) data to generate a comprehensive summary of player performance by gameweek. It retrieves player statistics, upcoming fixture information, and various performance metrics, then compiles them into a structured Excel report.
 
+The following Looker Studio dashboard is displays the FPL 24-25 season in a user friendly way: https://lookerstudio.google.com/reporting/6790c7f9-d0c1-48e2-95d9-843d88d41541
+
 ## Features
 
 * Asynchronously fetches player details, gameweek history, and fixture data from the official FPL API.
